@@ -22,7 +22,6 @@
   "main": "dist/firechat.js",
   "ignore": [
     "**/.*",
-    "src",
     "examples",
     "node_modules",
     "bower_components",
